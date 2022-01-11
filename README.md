@@ -34,4 +34,4 @@ Hand gesture is a natural way for humans to interact with the computers to perfo
 
 • Bad camera angle
 
-• There are unrecognized gestures made.
+• There are unrecognized gestures made. 
